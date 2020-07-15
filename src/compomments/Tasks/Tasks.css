@@ -1,0 +1,30 @@
+.privew{
+    cursor: pointer;
+}
+
+
+.icons_css{
+   
+    transition: 0.2s ease-in-out;
+}
+.icons_css:hover{
+    transform: scale(1.1);
+}
+
+
+.fields_css{
+    font-size: 1.2rem;
+}
+
+
+@media screen and (max-width: 600px){
+    .fields_css{
+        font-size: 0.8rem;
+    }
+    .task_header{
+        font-size: 0.9rem;
+    }
+    .icons_css{
+        font-size: 1.8rem;
+    }
+}
