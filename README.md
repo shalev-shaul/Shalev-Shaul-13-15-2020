@@ -6,7 +6,7 @@ First go to /reactexpress/server.js to Line 7 and change the details for your da
 
 Then start your server npm, and go to http://localhost:5000/createtabletasks to create the currect table.
 
-
+Start npm and then enter reactexpress dir and start the server too.
 then you are good to go, Hope we will be in touch.
 
 
